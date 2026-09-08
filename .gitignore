@@ -1,0 +1,16 @@
+﻿# 빌드 산출물
+build/
+*.exe
+*.o
+*.obj
+*.out
+
+# CMake 자동 생성 파일
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# IDE 설정
+.vscode/
+.vs/
